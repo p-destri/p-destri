@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @p-destri, but you can call me Destri
-- 👀 I’m interested in Smart Contracts, Product Devleopment, ZK and open source. 
+- 👋 Hi, I’m @p-destri, you can call me Destri
+- 👀 I’m interested in privacy-preserving applications, surfing, and coffee. 
 - 📫 How to reach me: pedro@hackachain.io
 
 <!---
