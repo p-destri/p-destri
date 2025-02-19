@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @p-destri, you can call me Destri
-- 👀 I’m interested in privacy-preserving applications, surfing, and coffee. 
+- yo yo
+
 
 
 <!---
